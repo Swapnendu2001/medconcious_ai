@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+uvicorn
+PyAudio
+pygame
+groq
+python-dotenv
+aiofiles
+markdown
+google-genai
